@@ -9,4 +9,4 @@ class loggingservice{
 export default BaseService
 
 
-console.log('hello to signed commit')
+console.log('hello to signed commit made easy')

@@ -3,6 +3,7 @@ class BaseService{
 
 
         this.logger = logger
+        this.dataservice = CSSStyleDeclaration
     }
 }
 
